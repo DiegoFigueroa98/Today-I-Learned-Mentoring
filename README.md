@@ -61,5 +61,6 @@ convert images_to_convert/*.HEIC ${timeStamp}.jpeg
 
 Crear scripts para ejecutar comandos
 
+Revisar vim o Emacs
 
 
